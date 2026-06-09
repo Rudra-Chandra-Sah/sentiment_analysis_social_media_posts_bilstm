@@ -1,0 +1,1 @@
+This project utilizes Natural Language Processing (NLP) and Machine Learning models to analyze the emotional tone of social media posts, comments, and interactions. It automatically classifies text as Positive, Negative, or Neutral to help track brand reputation and public engagement.
